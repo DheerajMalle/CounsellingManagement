@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+}
+
+th {
+    margin: 3px;
+}
+
+.btn.btn-primary {
+    size: 10px;
+}
+
+a#faculty.nav-item.nav-link {
+    display: flex;
+    align-items: flex-end;
+}
+
+label {
+    display: grid;
+    align-items: center;
+    text-align: center;
+}
+
+.lgforum {
+    margin: 5px;
+    padding: 5px;
+    border: solid 1px;
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.updatedetails {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    margin: 3px;
+    align-items: center;
+}
